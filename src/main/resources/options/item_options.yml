@@ -1,0 +1,5 @@
+type:
+  - SWORD
+  - AXE
+  - LONG_SWORD
+damage: NORMAL

@@ -1,0 +1,8 @@
+items-created: "§aSuccessfully creating "
+items-available: "§cItem already exist!"
+items-unavailable: "§cItem doesn't exist!"
+items-deleted: "§aSucessfully deleted item!"
+
+items-damage: "§7Damage: §c+#"
+items-critical-chance: "§7Critical Chance: §c+#"
+items-critical-damage: "§7Critical Damage: §c+#"

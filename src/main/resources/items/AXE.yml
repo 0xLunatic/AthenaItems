@@ -1,0 +1,10 @@
+PLUMBER_AXE:
+  base:
+    material: IRON_AXE
+    name: '&aPlumber Axe'
+    damage: 15
+    critical-chance: 50
+    critical-damage: 90
+    lore:
+      - '&7Snuggly snuggly axes'
+    rarity: EPIC

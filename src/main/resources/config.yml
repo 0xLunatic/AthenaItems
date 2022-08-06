@@ -1,0 +1,50 @@
+prefix: "§e§lAthenaItems §7» "
+
+#Change the language (must .yml)
+language: en_US.yml
+
+#Plugin reload Messages and Permission
+reload:
+  permission: athenaitems.reload
+  message:
+    - "&e&lAthenaItems"
+    - "&aPlugin Reloaded!"
+
+#Change plugin help messages
+help:
+  message:
+    - "&e/athenaitems create <type> <name>"
+    - "&e/athenaitems reload"
+    - "&e/athenaitems browse"
+
+#This is for AureliumSkills Plugin which add more Mana and Mana Regeneration with Custom ActionBar.
+#Action-Bar will automically enabled when aurelium-api is enabled.
+#Require Reload or Restart to Apply.
+aurelium-api: false
+action-bar:
+  mana-regen-multiplier: 0.1
+  normal-max-mana: 100
+  items-add-mana: true
+  blacklisted-item-held:
+    - NETHERITE_HELMET
+    - NETHERITE_CHESTPLATE
+    - NETHERITE_LEGGINGS
+    - NETHERITE_BOOTS
+    - DIAMOND_HELMET
+    - DIAMOND_CHESTPLATE
+    - DIAMOND_LEGGINGS
+    - DIAMOND_BOOTS
+    - IRON_HELMET
+    - IRON_CHESTPLATE
+    - IRON_LEGGINGS
+    - IRON_BOOTS
+    - CHAINMAIL_HELMET
+    - CHAINMAIL_CHESTPLATE
+    - CHAINMAIL_LEGGINGS
+    - CHAINMAIL_BOOTS
+    - LEATHER_HELMET
+    - LEATHER_CHESTPLATE
+    - LEATHER_LEGGINGS
+    - LEATHER_BOOTS
+
+

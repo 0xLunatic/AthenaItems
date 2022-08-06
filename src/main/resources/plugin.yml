@@ -1,0 +1,12 @@
+name: AthenaItems
+version: '${project.version}'
+main: dreamer.athena.Main
+api-version: 1.16
+authors: [ Mornov ]
+description: Custom RPG Plugin
+depend:
+  - ArmorEquipEvent
+commands:
+  athenaitems:
+    aliases: ai
+    permission: athenaitems
